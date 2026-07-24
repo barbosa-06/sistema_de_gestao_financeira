@@ -170,8 +170,7 @@ GitHub:
 https://github.com/barbosa-06
 
 LinkedIn:
-(Adicione o link do seu LinkedIn)
-
+https://linkedin.com/in/gugubarbosasousa
 ---
 
 ## 📄 Licença
